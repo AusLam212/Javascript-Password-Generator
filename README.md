@@ -45,5 +45,5 @@ In my Javascript I included the proper comments to show the process I went throu
 
 ## Link to Browser
 
-Link: 
+https://auslam212.github.io/Javascript-Password-Generator/
 
