@@ -87,6 +87,7 @@ function generatePassword() {
         returnPass += passArray[Math.floor(Math.random() * passArray.length)];
     }
 
+    //Created return for value that will be returned as generatePassword() function runs.
     return returnPass;
 
 }
